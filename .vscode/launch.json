@@ -1,0 +1,155 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "task4",
+      "request": "launch",
+      "mainClass": "tp3.task4",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task3",
+      "request": "launch",
+      "mainClass": "tp3.task3",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task2$Player",
+      "request": "launch",
+      "mainClass": "tp3.task2$Player",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "tp3.HelloWorld",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task1",
+      "request": "launch",
+      "mainClass": "tp3.task1",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task22",
+      "request": "launch",
+      "mainClass": "TP2.task22",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "tast11",
+      "request": "launch",
+      "mainClass": "TP2.tast11",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task6",
+      "request": "launch",
+      "mainClass": "TP2.task6",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task4",
+      "request": "launch",
+      "mainClass": "TP2.task4",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task3",
+      "request": "launch",
+      "mainClass": "TP2.task3",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task2",
+      "request": "launch",
+      "mainClass": "TP2.task2",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task1",
+      "request": "launch",
+      "mainClass": "TP2.task1",
+      "projectName": "java oop_4458f12b",
+      "args": ["17"]
+    },
+    {
+      "type": "java",
+      "name": "task6",
+      "request": "launch",
+      "mainClass": "tp1.task6",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task5",
+      "request": "launch",
+      "mainClass": "tp1.task5",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task4",
+      "request": "launch",
+      "mainClass": "tp1.task4",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task3",
+      "request": "launch",
+      "mainClass": "tp1.task3",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task2",
+      "request": "launch",
+      "mainClass": "tp1.task2",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task1",
+      "request": "launch",
+      "mainClass": "tp1.task1",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "hallo",
+      "request": "launch",
+      "mainClass": "hallo",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AddTwoNumber",
+      "request": "launch",
+      "mainClass": "AddTwoNumber",
+      "projectName": "java oop_4458f12b"
+    }
+  ]
+}
