@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sales",
+      "request": "launch",
+      "mainClass": "tp3.Sales",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task5",
+      "request": "launch",
+      "mainClass": "tp3.task5",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
       "name": "task4",
       "request": "launch",
       "mainClass": "tp3.task4",
@@ -87,7 +101,9 @@
       "request": "launch",
       "mainClass": "TP2.task1",
       "projectName": "java oop_4458f12b",
-      "args": ["17"]
+      "args": [
+        "17"
+      ]
     },
     {
       "type": "java",
