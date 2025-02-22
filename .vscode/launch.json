@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CreatObj",
+      "request": "launch",
+      "mainClass": "tp4.CreatObj",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "StudentG$Student",
+      "request": "launch",
+      "mainClass": "tp4.StudentG$Student",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "Car",
+      "request": "launch",
+      "mainClass": "tp4.Car",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "Employer",
+      "request": "launch",
+      "mainClass": "tp4.Employer",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToiGame",
+      "request": "launch",
+      "mainClass": "tp3.TicTacToiGame",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
       "name": "Sales",
       "request": "launch",
       "mainClass": "tp3.Sales",
