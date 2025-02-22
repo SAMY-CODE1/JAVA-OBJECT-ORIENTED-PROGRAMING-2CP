@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "gptyTP",
+      "request": "launch",
+      "mainClass": "tp4.gptyTP",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
       "name": "CreatObj",
       "request": "launch",
       "mainClass": "tp4.CreatObj",
