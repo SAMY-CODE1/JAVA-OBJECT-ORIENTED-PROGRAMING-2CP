@@ -5,7 +5,7 @@ public class gptyTP {
         String name;
         String nationality;
         String[] bookWritten;
-        int max;
+        
 
         public Author(String name,
                 String nationality,
@@ -17,7 +17,7 @@ public class gptyTP {
 
         public void getInfo() {
             System.out.println("Author Name: " + name);
-            System.out.println("Nationality: " + this.nationality);
+            System.out.println("Nationality: " + nationality);
             System.out.println("Books Written: " + bookWritten);
 
         }
@@ -95,6 +95,9 @@ public class gptyTP {
                     System.out.println(name + "succesfuly borrowed" + book.name);
                     ;
                 }
+                else{
+                    System.out.println("stop borrowing ");
+                }
             } else {
                 System.out.println("this book is not valiable");
             }
@@ -125,6 +128,8 @@ public class gptyTP {
         Book b2 = new Book("yamosoukri", 1235, a1, true);
 
         Member m1 = new Member("Sam", "001", 5);
+        
+
         m1.borrowBook(b1);
         m1.retun_book(b1);
         m1.borrowBook(b2);

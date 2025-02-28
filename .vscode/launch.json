@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "tp5.SchoolManagmentSystem.Main",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "tp5.Strudent_Degetize.Main",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task1",
+      "request": "launch",
+      "mainClass": "tp5.task1",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
       "name": "gptyTP",
       "request": "launch",
       "mainClass": "tp4.gptyTP",
