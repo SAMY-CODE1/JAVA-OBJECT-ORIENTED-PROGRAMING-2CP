@@ -10,7 +10,7 @@ public class task1 {
             if (list.get(i).equalsIgnoreCase(input)) {
                 list1.add(list.get(i));
             }
-
+            
         }
         System.out.println("the new  array you looking for is :  " + list1);
     }

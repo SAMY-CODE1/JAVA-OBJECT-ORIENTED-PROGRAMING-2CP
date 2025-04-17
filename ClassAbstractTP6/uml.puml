@@ -1,0 +1,62 @@
+@startuml
+
+class Person {
+  - name : String
+  - age : int
+  + Person(name: String, age: int)
+  + getName(): String
+  + setName(name: String): void
+  + getAge(): int
+  + setAge(age: int): void
+  + printDetails(): void
+}
+
+abstract class Employee {
+  - employeeId : int
+  - salary : double
+  + Employee(name: String, age: int, employeeId: int, salary: double)
+  + getEmployeeId(): int
+  + setEmployeeId(employeeId: int): void
+  + getSalary(): double
+  + setSalary(salary: double): void
+  + {abstract} calculateBonus(): double
+}
+
+class SalesPerson {
+  - salesAmount : double
+  + SalesPerson(name: String, age: int, employeeId: int, salary: double, salesAmount: double)
+  + getSalesAmount(): double
+  + setSalesAmount(salesAmount: double): void
+  + approveLeave(employeeName: String): void
+  + calculateBonus(): double
+}
+
+class Developer {
+  - experience : int
+  + Developer(name: String, age: int, employeeId: int, salary: double, experience: int)
+  + getExperience(): int
+  + setExperience(experience: int): void
+  + approveLeave(employeeName: String): void
+  + calculateBonus(): double
+}
+
+class Tester {
+  - name : String
+  - age : int
+  - project : String
+  + Tester(name: String, age: int, project: String)
+  + getName(): String
+  + setName(name: String): void
+  + getAge(): int
+  + setAge(age: int): void
+  + getProject(): String
+  + setProject(project: String): void
+  + approveLeave(employeeName: String): void
+}
+
+Person <|-- Employee
+Employee <|-- SalesPerson
+Employee <|-- Developer
+Person <|-- Tester
+
+@enduml

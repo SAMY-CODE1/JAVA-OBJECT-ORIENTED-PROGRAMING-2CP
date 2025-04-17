@@ -8,7 +8,6 @@ public class Main {
         ArrayList<Person> schoolMembers = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
 
-        // Adding default members
         schoolMembers.add(new Student("sam", 17, 101, 2, 13.8));
         schoolMembers.add(new Teacher("Ali", 45, 201, "Math", 50000));
         schoolMembers.add(new Staff("moh", 30, 301, "Librarian", 8));
