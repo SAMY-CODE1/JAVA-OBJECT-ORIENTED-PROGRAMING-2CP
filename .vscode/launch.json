@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "task20",
+      "request": "launch",
+      "mainClass": "Tp8.task20",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task19",
+      "request": "launch",
+      "mainClass": "Tp8.task19",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task17",
+      "request": "launch",
+      "mainClass": "Tp8.task17",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task18",
+      "request": "launch",
+      "mainClass": "Tp8.task18",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task16",
+      "request": "launch",
+      "mainClass": "Tp8.task16",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
       "name": "task15",
       "request": "launch",
       "mainClass": "Tp8.task15",
