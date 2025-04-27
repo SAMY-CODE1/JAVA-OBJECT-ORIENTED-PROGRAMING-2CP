@@ -6,6 +6,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "task15",
+      "request": "launch",
+      "mainClass": "Tp8.task15",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task14",
+      "request": "launch",
+      "mainClass": "Tp8.task14",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task13",
+      "request": "launch",
+      "mainClass": "Tp8.task13",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task12",
+      "request": "launch",
+      "mainClass": "Tp8.task12",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "Task11",
+      "request": "launch",
+      "mainClass": "Tp8.Task11",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task11",
+      "request": "launch",
+      "mainClass": "Tp8.task11",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task10",
+      "request": "launch",
+      "mainClass": "task10",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task9",
+      "request": "launch",
+      "mainClass": "Tp8.task9",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task8",
+      "request": "launch",
+      "mainClass": "Tp8.task8",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task7",
+      "request": "launch",
+      "mainClass": "task7",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task6",
+      "request": "launch",
+      "mainClass": "task6",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task5",
+      "request": "launch",
+      "mainClass": "task5",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task4",
+      "request": "launch",
+      "mainClass": "task4",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task3",
+      "request": "launch",
+      "mainClass": "task3",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task2",
+      "request": "launch",
+      "mainClass": "task2",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
+      "name": "task1",
+      "request": "launch",
+      "mainClass": "Tp8.task1",
+      "projectName": "java oop_4458f12b"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "ClassAbstractTP6.Main",
